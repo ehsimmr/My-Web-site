@@ -1,4 +1,4 @@
-theme: jekyll-theme-cayman
+theme: jekyll-theme-cayman/n
 title: Welcome to SIm Eng Hwa homepage!
 description: Feel free to bookmark this to keep an eye on my project updates.
 
